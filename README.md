@@ -6,3 +6,4 @@ Perhaps "responsive" isn't the right word here.  Think of when you omit the heig
 
 The functionality is pretty straightforward - it just creates a parent element of the correct width/height around an element that dictates the original element's height, and then resizes the inside one proportionately as needed for responsiveness (i.e., using CSS only).
 
+### Check out the <a href="http://m3andros.github.io/reframejs">demo</a>.
